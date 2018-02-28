@@ -736,3 +736,5 @@ CONFIG_RWSEM_SPIN_ON_OWNER=y
 CONFIG_FREEZER=y
 # Add Kernel Samepage Merging
 CONFIG_KSM=y
+# Add Hotplug
+CONFIG_SCHED_CORE_CTL=y
